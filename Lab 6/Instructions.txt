@@ -1,0 +1,5 @@
+DataStructuresLab6.cpp and Lab6DataStructures.h are used for task 2 and then for testing the insert function for task 3
+For comparison to lab 5 unbalanced tree changed the header file included in the DataStructuresLab6.cpp to
+Lab6Comparison.h
+For the second part of task 3 testing the find function the DataStructuresLab6Task3.cpp file is used and the same header files
+are used.
